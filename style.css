@@ -1,0 +1,24 @@
+#div1 {
+    float: center;
+    background-color:crimson;
+    border-bottom-style:dashed;
+    border-color:aliceblue;  
+    width: 50%;  
+    color:rgb(255, 255, 255)
+}
+#div2-homework-subjects {
+    float: center;
+    background-color:crimson;
+    border-bottom-style:dashed;
+    border-color:aliceblue;  
+    width: 50%;  
+    color:rgb(255, 255, 255)
+}
+a {
+    color: aliceblue;
+    
+}
+a:hover {
+    color: black;
+    background-color: aliceblue;
+}
